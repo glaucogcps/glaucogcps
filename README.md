@@ -26,8 +26,8 @@ Sou estudante de **Engenharia de Computação na Unicamp** com foco em sistemas 
 Meu foco principal é o estudo comparativo de métodos de cômputo de custos para sistemas com **incertezas politópicas**, utilizando ferramentas avançadas em **MATLAB** para a resolução de problemas de controle via LMIs.
 
 ### 💻 Stack Técnica
-- **Linguagens:** MATLAB, Python, Quartus, C/C++.
-- **Ferramentas:** Simulink, Jupyter Notebooks, LaTeX.
+- **Linguagens:** MATLAB, Python, C.
+- **Ferramentas:** Simulink, Jupyter Notebooks, LaTeX, Quartus.
 
 ---
 📫 **Como me encontrar:**
